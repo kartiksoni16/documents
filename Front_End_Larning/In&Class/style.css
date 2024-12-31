@@ -1,0 +1,13 @@
+.red
+{
+    color: rgb(0, 0, 0);
+    border: 0vw;
+    /* margin: 0cm; */
+    font-size: large;
+}
+
+.yellow
+{
+    background-color: rgb(243, 7, 133);
+    background-size: cover;
+}
