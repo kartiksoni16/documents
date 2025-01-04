@@ -24,3 +24,6 @@ print(n[1::2])
 print(n[::3])
 
 print(s[6:2:-1])
+
+s = "Hello"
+print(s[:-1])
